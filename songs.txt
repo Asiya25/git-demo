@@ -3,5 +3,9 @@ spell of shields
 standing strong
 on the chosen field
 
+<<<<<<< HEAD
 in the middle of the night
 -----------------
+=======
+hello this is new line
+>>>>>>> acc429a102bb21222fd0cc5b13c67f7883306801
