@@ -4,8 +4,13 @@ standing strong
 on the chosen field
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 in the middle of the night
 -----------------
 =======
 hello this is new line
 >>>>>>> acc429a102bb21222fd0cc5b13c67f7883306801
+=======
+hello this is new line
+in the middle of the night
+>>>>>>> 868779e33591cae91e6ebac2786b8397f7d62701
